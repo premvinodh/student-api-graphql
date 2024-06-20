@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+graphene
+starlette-graphene3
